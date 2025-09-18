@@ -12,7 +12,7 @@ Simple weather app using **HTML, CSS, JavaScript**.
 HTML • CSS • JavaScript  
 
 ## 📂 Structure
-weather-app-1/ <br>
+weather-app-1 <br>
 ├── index.html <br>
 ├── style.css <br>
 └── script.js 
